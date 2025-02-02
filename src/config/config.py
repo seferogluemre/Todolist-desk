@@ -1,0 +1,6 @@
+
+WINDOW_WIDTH = 400
+WINDOW_HEIGHT = 300
+BG_COLOR = "#f0f0f0"
+
+SAVE_FILE = "saved_text.txt"
