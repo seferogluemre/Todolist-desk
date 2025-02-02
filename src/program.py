@@ -1,4 +1,4 @@
-from src.utils.main import start_app
+import sys
+import os
 
-if __name__ == "__main__":
-    start_app()
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
